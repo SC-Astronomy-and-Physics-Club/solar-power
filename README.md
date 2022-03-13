@@ -10,7 +10,7 @@ This Jupyter Notebook calculates the expected solar flux at the 21-cm line, as o
 First, the radiance of the Sun at an estimated temperature of 5778 K, is dervied used Planck's Law of blackbody radiation. This derivation outputs units of Watts per meter-squared per sterradian [W/m^2/sr]. Because the Sun lies within the FOV of the telescope, the solid angle [sr] is calcuated from a point behind the radio telescope that propagates outward toward the Sun. The center axis of propagation passes through the both the center of the dish and the center of the Sun. Additionally, the outside edges of this solid angle form a tangent line on the edge of the dish and the meridian of the Sun that is perpendicular to the axis of propagation. The radiance from the blackbody model is then multiplied by the solid angle and the telescope's aperature area [m^2] to get the flux [W]. This is then converted to fit a logrithimic scale, resulting in units of decibel milliwatt [dBm].
 
 ## Solid Angle Relationship
-![](solidAngle.png)
+!(solidAngle.png)
 
 ### Derving the Solid Angle of Our Dish and the Sun
 $\Omega=\frac{A}{r^2}, 0\leq\Omega\leq 4\pi, r=\mathrm{radial\space distance}$
