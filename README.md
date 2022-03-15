@@ -24,10 +24,16 @@ power = flux * apeture
 ### Results
 
 Specific Intensity (W/m^2/sr/Hz):	3.5815555594549246e-18 W / (Hz m2 sr)
+
 Flux Density (W/m^2/Hz):		2.2503577268014545e-17 W / (Hz m2)
+
 Flux Density (Jy):			2250357726.801454 Jy
+
 Flux Density (sfu):			225035772680145.4 sfu
+
 Flux (W/m^2):				3.196421058684347e-08 W / m2
+
 Power (W):				5.083688038594618e-07 W
+
 Power (dBm):				-32.93821107857174 dB(mW)
 
