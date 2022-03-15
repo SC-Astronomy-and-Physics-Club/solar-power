@@ -1,4 +1,4 @@
-# Solar Flux for the 21-cm Line
+# Solar Power for the 21-cm Line
 Written by Austin Lake
 
 Saddleback College, Mission Viejo
@@ -36,4 +36,3 @@ Flux (W/m^2):				3.196421058684347e-08 W / m2
 Power (W):				5.083688038594618e-07 W
 
 Power (dBm):				-32.93821107857174 dB(mW)
-
